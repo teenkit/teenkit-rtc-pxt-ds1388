@@ -8,7 +8,6 @@
     },
     "files": [
         "README.md",
-        "pxtparts.json",
         "ds1388.ts"
     ],
     "testFiles": [
