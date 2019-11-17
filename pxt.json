@@ -1,7 +1,7 @@
 {
-    "name": "DS1307",
+    "name": "DS1388",
     "version": "1.2.0",
-    "description": "makecode DS1307 RTC Package for micro:bit",
+    "description": "makecode DS1388 RTC Package for micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,8 +9,7 @@
     "files": [
         "README.md",
         "pxtparts.json",
-        "ds1307.ts",
-        "parts/ds1307.svg"
+        "ds1388.ts"
     ],
     "testFiles": [
         "test.ts"
