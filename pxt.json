@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "ds1388.ts",
-        "teenkit.png"
+        "teenkit.svg"
     ],
     "testFiles": [
         "test.ts"
