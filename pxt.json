@@ -8,8 +8,7 @@
     },
     "files": [
         "README.md",
-        "ds1388.ts",
-        "teenkit.svg"
+        "ds1388.ts"
     ],
     "testFiles": [
         "test.ts"
